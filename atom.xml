@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-19T13:44:41.081Z</updated>
+  <updated>2018-04-21T15:36:19.015Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>刀</title>
+    <link href="http://yoursite.com/2018/04/21/%E5%88%80/"/>
+    <id>http://yoursite.com/2018/04/21/刀/</id>
+    <published>2018-04-21T15:22:15.000Z</published>
+    <updated>2018-04-21T15:36:19.015Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>写着玩玩</em><br><a id="more"></a></p><hr><p>刀在颤抖。</p><p>刀本不会颤抖，是握刀的手在颤抖。</p><p>手也不会颤抖，是人，是握刀的人在颤抖。</p><p>人的心乱了，刀自然就握不住了。但既然心乱了，那为何刀仍要出鞘？</p><p>一滴汗，缓缓从人面颊划过。</p><p>一滴血，缓缓从刀尖上滴落。</p><p>是谁的血？刀的血？</p><p>刀不会杀人，人才会。</p><p>人在颤抖。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;写着玩玩&lt;/em&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="练手" scheme="http://yoursite.com/categories/%E7%BB%83%E6%89%8B/"/>
+    
+    
+      <category term="写着玩" scheme="http://yoursite.com/tags/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
+    
+  </entry>
   
   <entry>
     <title>人性与神性</title>
